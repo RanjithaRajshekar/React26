@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is react 1st app",
+  "keywords": [],
+  "homepage": "https://github.com/RanjithaRajshekar/React26#readme",
+  "bugs": {
+    "url": "https://github.com/RanjithaRajshekar/React26/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanjithaRajshekar/React26.git"
+  },
+  "license": "ISC",
+  "author": "Ranjitha",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
